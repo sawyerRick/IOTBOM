@@ -25,7 +25,7 @@ SECRET_KEY = '(nqm8&k5x3o-br!dbrijgjyjb6bxs_y*v7(w%h7q^23mal&+1('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["coksk.cn"]
 
 
 # Application definition
